@@ -32,7 +32,7 @@ export default function App() {
         <Stack.Screen 
           name="AddPlaces" 
           component={AddPlace} 
-          options={{title:' Add new Place'}}
+          options={{title:'Add new Place'}}
         />
         
       </Stack.Navigator>
